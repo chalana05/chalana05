@@ -1,6 +1,3 @@
-# Welcome to my GitHub profile! 👋
-
-
 👋 Hi, I’m Chalana Sayuranga
 👀 I’m interested in web development
 🌱 I’m currently learning web development
