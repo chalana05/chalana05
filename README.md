@@ -19,7 +19,7 @@
 </br>
 </br>
 <div align="center">
-💬 Ask me anything <a href="https://github.com/GathsaraH/GathsaraH/issues"><b>here</b></a> or <a href="mailto:sayurangachalana@gmail.com"><b>email</b></a> me
+💬 Ask me anything <a href="https://github.com/issues"><b>here</b></a> or <a href="mailto:sayurangachalana@gmail.com"><b>email</b></a> me
 </br>🎯 Keep Coding, Keep Exploring! 😊
 
 </div>
