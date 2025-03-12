@@ -70,5 +70,3 @@
 </div>
 <hr/>
 
-
-  Profile Hits: [![HitCount](https://hits.dwyl.com/chalana05/chalana05.svg?style=flat-square)](http://hits.dwyl.com/chalana05/chalana05)
