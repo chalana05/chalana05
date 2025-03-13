@@ -47,8 +47,6 @@ I built my **Personal Portfolio Website** using **React.js**!
 ---
 
 
----
-
 ### 🐍 Contributions Snake
 <p align="center">
   <picture>
