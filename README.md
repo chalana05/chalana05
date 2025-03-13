@@ -46,11 +46,6 @@ I built my **Personal Portfolio Website** using **React.js**!
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chalana-sayuranga&show_icons=true&theme=radical&hide_border=true" alt="chalana-sayuranga github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalana-sayuranga&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
