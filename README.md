@@ -73,4 +73,4 @@ I built my **Personal Portfolio Website** using **React.js**!
 
 ---
 
-✨ *Thank you for visiting my profile!* ✨  
+<h3 align="center">✨ Thank you for visiting my profile! ✨  
